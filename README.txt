@@ -2,6 +2,8 @@ LM15SGFNZ07 library
 -------------- 
 
 Librería para el control del LCD LM15SGFNZ07 incluido en los telefonos Siemens M55, S55, A60, C60, MC60.
+El lcd esta fabricado por Samsung con el Driver HM17CM4096.
+Tiene una resolución de 101x80 y 4096 colores. 
 
 Esta libreria a sido desarrollada por:
 
@@ -52,3 +54,18 @@ APORTACIÓN PERSONAL
 
 Soporte para la libreria SPI y así tener más velocidad.
 Modificado el ejemplo original y añadido otro para Arduino Mega.
+
+
+DESCRIPCIÓN DE PINES
+--------------------
+
+Pin1  Cs
+Pin2  Reset
+Pin3  Rs
+Pin4  Sclk
+Pin5  Sdta
+Pin6  +2.9V   (SE PUEDE USAR TRANQUILAMENTE 3,3V)
+Pin7  Gnd
+Pin8  Led1 +
+Pin9  Led1+Led2 GND
+Pin10 Led2 + 
