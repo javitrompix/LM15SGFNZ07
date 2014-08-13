@@ -8,6 +8,9 @@ Esta libreria a sido desarrollada por:
 Email: markauskas.mindaugas at gmail.com
 URL: http://mindogas.wordpress.com/
 
+La librería original:
+https://bitbucket.org/mindogas/lm15sgfnz07
+
 En los siguientes enlaces teneis más documentación de ella:
 
 http://mindogas.wordpress.com/2012/06/27/siemens-m55-lcd-lm15sgfnz07-arduino-biblioteka/#more-235
